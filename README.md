@@ -1,4 +1,8 @@
 # Spotify Song & Genre Analysis, Popularity Prediction and Building a Simple Recommendation System
+Group Members:
+- Uğur Sezer Aşıkoğlu
+- Melisa Yılmaz
+- Kalender Gülbudak
 
 Exploratory Data Analysis:
 - Visualizations descriptive statistics of the dataset; visual explanations of features &
