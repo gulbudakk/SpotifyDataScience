@@ -1,5 +1,4 @@
-# Spotify Data Science
-Spotify Song &amp; Genre Analysis, Popularity Prediction and Building a Simple Recommendation System
+# Spotify Song & Genre Analysis, Popularity Prediction and Building a Simple Recommendation System
 
 Exploratory Data Analysis:
 - Visualizations descriptive statistics of the dataset; visual explanations of features &
